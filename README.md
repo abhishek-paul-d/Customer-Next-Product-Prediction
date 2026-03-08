@@ -1,6 +1,4 @@
 # Customer Next Product Prediction
-================================
-
 ## Overview
 
 This project builds a next product recommendation system using customer purchase sequences. The goal is to predict the next product a customer is likely to purchase based on previously purchased products.
@@ -137,4 +135,5 @@ python build_nn.py
 * Recommender systems
 * Data sparsity in probabilistic models
 * Neural network prediction using PyTorch
+
 * Evaluation using Perplexity and Top-K Accuracy
